@@ -1,0 +1,24 @@
+{
+  "npmScope": "sweetsugar",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "sweetsugar": {
+      "tags": []
+    },
+    "sweetsugar-e2e": {
+      "tags": []
+    },
+    "mapledesign": {
+      "tags": []
+    },
+    "mapledesign-e2e": {
+      "tags": []
+    }
+  }
+}
